@@ -1,0 +1,57 @@
+[
+  {
+    "feature_name": "Automated Post-Purchase Surveys",
+    "category": "VoC - Surveys",
+    "description": "Automatically send surveys to customers after purchases through multiple channels.",
+    "how_it_helps": "Increase feedback collection rate by automating post-transaction survey delivery.",
+    "keywords": ["survey", "feedback", "post-purchase", "automation", "customer response"],
+    "use_cases": [
+      "Collect feedback after purchase",
+      "Survey customer satisfaction"
+    ]
+  },
+  {
+    "feature_name": "AI Agent for FAQ & First Response",
+    "category": "AI Customer Service - AI Inbox",
+    "description": "AI supports answering repetitive questions, reducing workload for staff.",
+    "how_it_helps": "Automatically answers frequently asked questions, allowing staff to focus on more complex issues.",
+    "keywords": ["AI", "FAQ", "first response", "automation", "support"],
+    "use_cases": [
+      "Reduce workload for call center agents",
+      "Increase customer response speed"
+    ]
+  },
+  {
+    "feature_name": "Customer Journey Experience Analysis",
+    "category": "Insights - Experience",
+    "description": "Analyze the customer journey to identify friction points and improve experience.",
+    "how_it_helps": "Helps businesses identify pain points in the customer journey through feedback and operational data analysis.",
+    "keywords": ["journey", "touchpoint", "friction", "analysis", "experience"],
+    "use_cases": [
+      "Analyze touchpoints causing dissatisfaction",
+      "Improve customer experience"
+    ]
+  },
+  {
+    "feature_name": "Customer Profile with Interaction History",
+    "category": "Customer 360 - Customers & AI Inbox",
+    "description": "Aggregate customer interaction history across all channels.",
+    "how_it_helps": "Provides a comprehensive view of customers, enabling personalized service and support.",
+    "keywords": ["customer profile", "interaction history", "360 view", "personalization"],
+    "use_cases": [
+      "View interaction history when customers contact",
+      "Personalize customer care"
+    ]
+  },
+  {
+    "feature_name": "AI-Powered Topic & Sentiment Analysis for VoC",
+    "category": "VoC - Conversations/Surveys, Insights - Experience",
+    "description": "Automatically analyze topics and sentiment from customer text feedback.",
+    "how_it_helps": "Saves time analyzing open feedback, automatically identifies prominent topics and sentiments.",
+    "keywords": ["AI", "topic analysis", "sentiment", "text feedback", "automation"],
+    "use_cases": [
+      "Analyze open feedback in surveys",
+      "Identify prominent topics from customer conversations"
+    ]
+  }
+] 
