@@ -61,12 +61,11 @@ This project provides a simple web interface to search for FilumAI features base
 - To add or edit features, modify `features.json`.
 - To improve matching logic, edit `painpoint_agent.py`.
 
-## License
-
 ## Example Input/Output
 
 Input: "We have trouble collecting customer feedback after purchase."
-Output:
+**Output:**
+```json
 [
   {
     "feature_name": "Automated Post-Purchase Surveys",
@@ -76,3 +75,5 @@ Output:
     "relevance_score": 0.95
   }
 ]
+```
+```
