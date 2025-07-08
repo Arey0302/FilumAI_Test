@@ -63,8 +63,9 @@ This project provides a simple web interface to search for FilumAI features base
 
 ## Example Input/Output
 
-Input: "We have trouble collecting customer feedback after purchase."
-**Output:**
+Input: `We have trouble collecting customer feedback after purchase.`
+
+Output:
 ```json
 [
   {
@@ -76,4 +77,4 @@ Input: "We have trouble collecting customer feedback after purchase."
   }
 ]
 ```
-```
+
